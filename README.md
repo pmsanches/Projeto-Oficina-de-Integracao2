@@ -52,6 +52,9 @@ O sistema será baseado na *Arquitetura em Camadas*, dividido em:
 
 ## Diagramas 
 
+## MER
+<img width="815" height="335" alt="MER" src="https://github.com/user-attachments/assets/38464099-8340-4a00-b941-613e2a0e6de5" />
+
 ## Diagrama de Atividades
 <img width="385" height="523" alt="diagrama de atividades" src="https://github.com/user-attachments/assets/b2851dfa-46a6-47d7-89ec-fe1b70e5b57a" />
 
