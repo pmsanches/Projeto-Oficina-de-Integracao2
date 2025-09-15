@@ -50,6 +50,22 @@ O sistema será baseado na *Arquitetura em Camadas*, dividido em:
 
 ---
 
+## Diagramas 
+
+## Diagrama de Atividades
+<img width="385" height="523" alt="diagrama de atividades" src="https://github.com/user-attachments/assets/b2851dfa-46a6-47d7-89ec-fe1b70e5b57a" />
+
+## Diagrama de Casos de Uso
+<img width="703" height="648" alt="Diagrama de casos de uso" src="https://github.com/user-attachments/assets/bb899a9c-5257-40be-b345-719b69159451" />
+
+## Diagramad de Classes
+<img width="667" height="455" alt="Diagrama de classes" src="https://github.com/user-attachments/assets/170bdb54-b159-4e14-bfb3-a11b36dc79ca" />
+
+## Diagrama de Componentes
+<img width="1357" height="433" alt="Diagrama de Componentes" src="https://github.com/user-attachments/assets/6ef3ffac-674c-4a93-bd75-b3120fa4309b" />
+
+---
+
 ## 🧪 Estratégia de Testes
 
 A estratégia de automação de testes será baseada em *Testes Unitários*, focando na validação de entradas e saídas:
