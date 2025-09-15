@@ -8,6 +8,7 @@ Este projeto contempla o desenvolvimento de uma plataforma de controle de oficin
 
 Criar uma plataforma web para que o Gerente de Oficinas possa cadastrar, gerenciar e emitir relatórios e certificados de forma centralizada e segura.
 
+Nosso Cronograma: https://trello.com/b/aP1XkLUb/cronogramacontrole-de-oficinas
 ---
 
 ## ✅ Funcionalidades (Requisitos Funcionais)
