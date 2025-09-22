@@ -54,19 +54,24 @@ O sistema será baseado na *Arquitetura em Camadas*, dividido em:
 ## Diagramas 
 
 ## MER
-<img width="815" height="335" alt="MER" src="https://github.com/user-attachments/assets/38464099-8340-4a00-b941-613e2a0e6de5" />
+<img width="555" height="728" alt="MER" src="https://github.com/user-attachments/assets/1330dacf-917f-4e3a-8606-aaff7a575e00" />
+
 
 ## Diagrama de Atividades
-<img width="385" height="523" alt="diagrama de atividades" src="https://github.com/user-attachments/assets/b2851dfa-46a6-47d7-89ec-fe1b70e5b57a" />
+<img width="416" height="493" alt="Diagrama de Atividade – Fluxo de Geração de Certificado" src="https://github.com/user-attachments/assets/834df47c-4076-4968-b6da-b7ffa0028aa2" />
+
 
 ## Diagrama de Casos de Uso
-<img width="703" height="648" alt="Diagrama de casos de uso" src="https://github.com/user-attachments/assets/bb899a9c-5257-40be-b345-719b69159451" />
+<img width="769" height="531" alt="Casos de uso_controle de oficina" src="https://github.com/user-attachments/assets/58602c9a-ad41-41a0-b6c5-e52f1a3ad8fa" />
+
 
 ## Diagramad de Classes
-<img width="667" height="455" alt="Diagrama de classes" src="https://github.com/user-attachments/assets/170bdb54-b159-4e14-bfb3-a11b36dc79ca" />
+<img width="566" height="441" alt="Classes" src="https://github.com/user-attachments/assets/cc8a119b-50aa-40ff-8d75-c9bbe0eeaab5" />
+
 
 ## Diagrama de Componentes
-<img width="1357" height="433" alt="Diagrama de Componentes" src="https://github.com/user-attachments/assets/6ef3ffac-674c-4a93-bd75-b3120fa4309b" />
+<img width="574" height="563" alt="Componentes" src="https://github.com/user-attachments/assets/b74a0db4-9534-468e-a397-32741b20e1dd" />
+
 
 ---
 
