@@ -37,15 +37,12 @@
 - [x] Implementar tela de login - Igor
 - [x] Integrar com sistema de autenticação - Paolla
 - [x] Validar credenciais do Gerente de Oficinas - Paolla
-- [x] Remover dependências do Manus - Todos
 
 ## Tarefas de Infraestrutura
 
 - [x] Configurar banco de dados relacional (PostgreSQL/MySQL)
 - [x] Implementar layout do dashboard - Igor
 - [x] Criar componentes reutilizáveis - Igor
-- [x] Remover todas as dependências do Manus
-- [x] Traduzir comentários para português brasileiro
 - [ ] Implementar testes unitários - Daniel, Paolla, Igor
 - [ ] Documentar API - Paolla
 - [ ] Criar guia de usuário - Igor
@@ -63,13 +60,10 @@
 
 ## Notas
 
-- Distribuição de tarefas: Igor (Front-end), Paolla (Back-end/API), Daniel (Banco de Dados/Repositórios)
+- Distribuição de tarefas: Igor (Front-end/Back-end/API/Repositorio/Banco de dados), Paolla (Front-end/Back-end/API/Repositorio/Banco de dados), Daniel(Front-end/Back-end/API/Repositorio/Banco de dados) Todos nos ajudamos.
 - Tecnologias: React.js (Front-end), Node.js + Express + tRPC (Back-end), MySQL/PostgreSQL (BD)
 - Metodologia: Scrum com 2 Sprints
-- Todos os arquivos devem ter comentários em português indicando o autor e a funcionalidade
-- Projeto agora é independente do Manus e pode rodar localmente
 
 ## Bugs Reportados
 
 - [x] Erro 404 ao clicar em "Temas" - Verificar roteamento e estrutura do DashboardLayout (CORRIGIDO)
-- [x] Dependências do Manus causando problemas - Remover completamente (CORRIGIDO)
