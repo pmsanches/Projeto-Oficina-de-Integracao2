@@ -1,0 +1,30 @@
+# =====================================================
+# ELLP - Sistema de Controle de Oficinas
+# Docker Compose para banco de dados PostgreSQL
+# =====================================================
+
+version: '3.8'
+
+services:
+  # Serviço do banco de dados PostgreSQL
+  # Responsável por armazenar todos os dados do sistema
+  db:
+    image: postgres:15-alpine
+    container_name: ellp_database
+    environment:
+      POSTGRES_USER: ellp_user
+      POSTGRES_PASSWORD: ellp_senha123
+      POSTGRES_DB: ellp_db
+    ports:
+      # Porta 5432 padrão do PostgreSQL
+      - "5432:5432"
+    volumes:
+      # Volume para persistir os dados do banco
+      - ellp_data:/var/lib/postgresql/data
+      # Script de inicialização do banco
+      - ./scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
+    restart: unless-stopped
+
+# Volume nomeado para persistência dos dados
+volumes:
+  ellp_data:

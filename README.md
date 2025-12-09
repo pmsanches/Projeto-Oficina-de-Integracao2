@@ -38,17 +38,21 @@ Nosso Cronograma: https://trello.com/b/aP1XkLUb/cronogramacontrole-de-oficinas
 O sistema será baseado na *Arquitetura em Camadas*, dividido em:
 
 - *Front:*  
-  - 📌 Tecnologia: React.js  
-  - 📌 Linguagem: JavaScript
+  - 📌 Tecnologia: Next.js com React e TypeScript
+  *Back:* 
+  - 📌 Backend: API Routes do Next.js
+  - 📌 IDE: Vscode
+  
+   *BD:*  
+  - Banco de Dados PostgreSQL (via Docker)
 
-- *Back:*  
-  - 📌 Framework: Spring Boot  
-  - 📌 Linguagem: Java  
-  - 📌 IDE sugeridas: NetBeans ou Eclipse
+  *Estilizacao:*
+   - Tailwind CSS
 
-- *BD:*  
-  - Banco de Dados relacional (a definir)
+## Credenciais de Acesso
 
+- **Email**: admin@ellp.com
+- **Senha**: admin123
 ---
 
 ## Diagramas 
@@ -81,4 +85,6 @@ A estratégia de automação de testes será baseada em *Testes Unitários*, foc
 
 - Validação de formatos (Telefone, E-mail, Datas etc.)
 - Garantia de integridade dos dados manipulados nas camadas
+- Distribuição de tarefas: Nos ajudamos em tudo(Igor, Paolla). Um outro membro desistiu.
+- Metodologia: Scrum com 2 Sprints
 
