@@ -88,3 +88,5 @@ A estratégia de automação de testes será baseada em *Testes Unitários*, foc
 - Distribuição de tarefas: Nos ajudamos em tudo(Igor, Paolla). Um outro membro desistiu.
 - Metodologia: Scrum com 2 Sprints
 
+## Link para o vídeo de demosntração:
+https://youtu.be/ZIeDRUkzIx4
