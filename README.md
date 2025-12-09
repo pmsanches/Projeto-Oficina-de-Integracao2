@@ -90,3 +90,6 @@ A estratégia de automação de testes será baseada em *Testes Unitários*, foc
 
 ## Link para o vídeo de demosntração:
 https://youtu.be/ZIeDRUkzIx4
+
+## Link para acesso ao repositório:
+https://github.com/pmsanches/Projeto-Oficina-de-Integracao2
